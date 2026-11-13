@@ -38,3 +38,8 @@ samples/Installer/WallerpaperSetup/Resources/payload.zip
 # Generated test measurements
 perf-samples*.csv
 scene-load-results.jsonl
+
+# Wrangler / node
+node_modules/
+.wrangler/
+.dev.vars
